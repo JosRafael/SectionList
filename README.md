@@ -31,8 +31,8 @@ $ https://nodejs.org/en/
 $ npm install
 
 # Execute a aplicação
-$ npm start
 ```
+  $ npm start
 
 <h2  id="techs"> 💻 Tecnologias</h2>
 
