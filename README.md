@@ -32,6 +32,7 @@ $ npm install
 
 # Execute a aplicação
 $ npm start
+```
 
 <h2  id="techs"> 💻 Tecnologias</h2>
 
