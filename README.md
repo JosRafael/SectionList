@@ -1,4 +1,4 @@
-<h1 align="center"> Section List</h1>
+<h1 align="center"> 🧩Section List</h1>
 
 <p align="center">  <a href="#sobre">Sobre</a> • <a href="#aplicacao">Aplicação</a> • <a href="#techs">Tecnologias</a> • <a href="#autor">Autor</a> • </p>
 
