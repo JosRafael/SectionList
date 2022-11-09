@@ -4,7 +4,7 @@
 
   <h2 id="sobre"> 📋 Sobre o projeto</h2>
 
-Aplicativo basico utilizando a documentação do [Expo](https://github.com/JosRafael/SectionList). Aplicativo somente de estudo
+Aplicativo basico utilizando a documentação do [Expo](https://reactnative.dev/docs/sectionlist). Aplicativo somente de estudo
 
 <h2 id="layout"> 🎨  Layout </h2>
 
