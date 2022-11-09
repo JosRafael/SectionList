@@ -6,11 +6,17 @@
 
 Aplicativo basico utilizando a documentação do EXPO. Aplicativo somente de estudo[https://reactnative.dev/docs/sectionlist]
 
+<h2 id="autor"> 🦸 Autor</h2>
+
+[José Rafael](https://github.com/JosRafael)
+<div> 
+  <a href="https://instagram.com/jrafael123_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaz1n123" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaelmatiashue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 <h2 id="aplicacao"> 🎲  Rodando essa aplicação: </h2>
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/), [Insomnia](https://insomnia.rest/), [MongoDB](https://www.mongodb.com/try/download/community). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 ```
 # Clone este repositório
 $ git clone https://github.com/JosRafael/SectionList
@@ -35,12 +41,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Expo]
 - [React Native]
 - [JavaScript]()
-
-<h2 id="autor"> 🦸 Autor</h2>
-
-[José Rafael](https://github.com/JosRafael)
-<div> 
-  <a href="https://instagram.com/jrafael123_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaz1n123" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafaelmatiashue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
